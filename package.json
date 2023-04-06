@@ -1,15 +1,12 @@
 {
-  "name": "ack-nestjs-boilerplate",
+  "name": "nestjs-boilerplate",
   "version": "4.4.3",
-  "description": "Ack NestJs Boilerplate",
+  "description": "NestJs Boilerplate",
   "repository": {
     "type": "git",
-    "url": "https://github.com/andrechristikan/ack-nestjs-boilerplate.git"
+    "url": "https://github.com/demigod266/nest-js-boilerplate.git"
   },
-  "author": {
-    "name": "andrechristikan",
-    "email": "ack@baibay.id"
-  },
+
   "private": true,
   "license": "MIT",
   "scripts": {
