@@ -32,7 +32,7 @@ export class DatabaseOptionsService implements IDatabaseOptionsService {
         let uri = `${this.host}`;
 
         if (this.database) {
-            uri = `mongodb+srv://devadmin:admineasytech123@prodc.ahr3g.mongodb.net/ack?retryWrites=true&w=majority`;
+            uri = `mongodb://localhost:27017/nestBoiler`;
             
         }
 
